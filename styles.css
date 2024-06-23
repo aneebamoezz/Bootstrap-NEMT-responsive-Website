@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+/* 
+@font-face {
+  font-family: "Roboto";
+  src: url("./fonts/Roboto/Roboto-Light.ttf");
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./fonts/ralewaye/static/Raleway-Medium.ttf");
+}
+
+@font-face {
+  font-family: "Cormorant";
+  src: url("./fonts/Cormorant_Garamond/CormorantGaramond-Medium.ttf");
+} */
+
+body{
+  font-family: "Lato", sans-serif;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+
+.text-color{
+  color: rgba(4, 152, 213) !important;
+}
+
+.text-des{
+  color: rgba(107, 114, 128) !important;
+}
+
+.header-bg{
+  background-color: #fff;
+}
+
+.bg{
+  background-color: rgba(249, 250, 251);
+}
+
+.fw-bold-700{
+  font-weight: 600 !important;
+}
+
+.fw-500{
+  font-weight: 500 !important;
+}
