@@ -47,3 +47,8 @@ body{
 .fw-500{
   font-weight: 500 !important;
 }
+
+.btn-primary{
+  border: none !important;
+  background-color: rgba(4, 152, 213) !important;
+}
