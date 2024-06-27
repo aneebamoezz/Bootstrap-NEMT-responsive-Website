@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap");
 /* 
 @font-face {
   font-family: "Roboto";
@@ -15,36 +15,97 @@
   src: url("./fonts/Cormorant_Garamond/CormorantGaramond-Medium.ttf");
 } */
 
-body{
-  font-family: "Lato", sans-serif;
+body {
+  font-family: "Urbanist", sans-serif;
+}
+
+.urbanist-font {
+  font-family: "Urbanist", sans-serif;
 }
 
 .font-bold {
   font-weight: bold;
 }
 
-
-.text-color{
+.text-color {
   color: rgba(4, 152, 213) !important;
 }
 
-.header-bg{
+.header-bg {
   background-color: #000;
 }
 
-.bg{
+.bg {
   background-color: rgba(249, 250, 251);
 }
 
-.fw-bold-700{
-  font-weight: 600 !important;
-}
-
-.btn-primary{
+.btn-primary {
   border: none !important;
   background-color: rgba(4, 152, 213) !important;
 }
 
-.border-red{
+.border-red {
   border: 2px solid red !important;
+}
+
+.color-grey {
+  color: #56595a !important;
+}
+
+.color-orange {
+  color: #ff6314 !important;
+}
+
+.grey-border {
+  border-color: #dee2e6 !important;
+}
+
+.orange-border {
+  border-color: #ff6314 !important;
+}
+
+.white-icon {
+  color: #fff !important;
+}
+
+.p-5 {
+  padding-top: 150px !important;
+  padding-bottom: 150px !important;
+}
+
+.bg-color {
+  background-color: #0d0e13 !important;
+}
+
+.h3-grey {
+  color: #333;
+}
+
+.testimonial-bg {
+  background-color: #ff6314;
+}
+
+.fa-brands{
+  font-size: 30px;
+}
+
+.btn-5:hover{
+  background-color: #ff6314 !important;
+  color: #fff !important;
+}
+
+.btn-4:hover{
+  background-color: #fff !important;
+  color: #ff6314 !important;
+}
+
+.btn-3:hover{
+  background-color: #ff6314 !important;
+  color: #fff !important;
+}
+
+.btn-33:hover{
+  background-color: #ff6314 !important;
+  color: #fff !important;
+  border: 1px solid transparent !important;
 }
