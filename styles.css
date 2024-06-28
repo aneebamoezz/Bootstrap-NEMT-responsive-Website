@@ -66,6 +66,10 @@ body {
   border-color: #ff6314 !important;
 }
 
+.navbar-toggler-icon{
+  color: #fff !important;
+}
+
 .p-5 {
   padding-top: 150px !important;
   padding-bottom: 150px !important;
