@@ -117,5 +117,6 @@ body {
 }
 
 .mw-500{
+  width: 100%;
   max-width: 477px;
 }
