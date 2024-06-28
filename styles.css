@@ -66,7 +66,8 @@ body {
   border-color: #ff6314 !important;
 }
 
-.navbar-toggler-icon{
+.navbar-toggler-icon,
+.white-icon {
   color: #fff !important;
 }
 
@@ -117,6 +118,6 @@ body {
 }
 
 .mw-500 {
-  width: 100%;
-  max-width: 477px;
+  max-width: 550px;
 }
+
