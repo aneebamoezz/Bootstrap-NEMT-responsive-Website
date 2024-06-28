@@ -15,7 +15,7 @@
   src: url("./fonts/Cormorant_Garamond/CormorantGaramond-Medium.ttf");
 } */
 
-body { 
+body {
   padding: 0;
   margin: 0;
   font-family: "Urbanist", sans-serif;
@@ -66,10 +66,6 @@ body {
   border-color: #ff6314 !important;
 }
 
-.white-icon {
-  color: #fff !important;
-}
-
 .p-5 {
   padding-top: 150px !important;
   padding-bottom: 150px !important;
@@ -87,36 +83,36 @@ body {
   background-color: #ff6314;
 }
 
-.fa-brands{
+.fa-brands {
   font-size: 30px;
 }
 
-.btn-5:hover{
+.btn-5:hover {
   background-color: #ff6314 !important;
   color: #fff !important;
 }
 
-.btn-4:hover{
+.btn-4:hover {
   background-color: #fff !important;
   color: #ff6314 !important;
 }
 
-.btn-3:hover{
+.btn-3:hover {
   background-color: #ff6314 !important;
   color: #fff !important;
 }
 
-.btn-33:hover{
+.btn-33:hover {
   background-color: #ff6314 !important;
   color: #fff !important;
   border: 1px solid transparent !important;
 }
 
-.sec-py{
+.sec-py {
   padding: 40px 0px;
 }
 
-.mw-500{
+.mw-500 {
   width: 100%;
   max-width: 477px;
 }
