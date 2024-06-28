@@ -15,7 +15,9 @@
   src: url("./fonts/Cormorant_Garamond/CormorantGaramond-Medium.ttf");
 } */
 
-body {
+body { 
+  padding: 0;
+  margin: 0;
   font-family: "Urbanist", sans-serif;
 }
 
@@ -32,7 +34,7 @@ body {
 }
 
 .header-bg {
-  background-color: #000;
+  background-color: transparent;
 }
 
 .bg {
