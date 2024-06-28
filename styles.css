@@ -115,3 +115,7 @@ body {
 .sec-py{
   padding: 40px 0px;
 }
+
+.mw-500{
+  max-width: 477px;
+}
